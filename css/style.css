@@ -3221,7 +3221,7 @@ html.with-fancybox body.hide-scrollbar {
 
 .menu-burger .menu .burger-sub-menu .burger-sub-sub-menu > li a {
   display: inline-block;
-  padding: 5px 5px 5px 5px;
+  padding: 10px 10px 10px 10px;
 }
 
 .menu-burger .menu .burger-sub-menu .burger-sub-sub-menu > li:first-of-type {
